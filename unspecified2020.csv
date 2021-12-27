@@ -1,7 +1,7 @@
-358 Category Code,Description,Excess Deaths
-215,All other forms of chronic ischemic heart disease,"8,000"
-173,Other metabolic disorders,"3,600"
-54,All other and unspecified viral diseases,"1,800"
-255,"Viral pneumonia, not elsewhere classified","1,200"
-306,All other diseases of digestive system,"600"
-260,Other and unspecified acute lower respiratory infection,"100"
+358 Category Code,Description,Excess Deaths,95% Interval
+215,All other forms of chronic ischemic heart disease,"8,000","2,100 - 23,900"
+173,Other metabolic disorders,"3,600","300 - 5,500"
+54,All other and unspecified viral diseases,"1,800","1,400 - 2,900"
+255,"Viral pneumonia, not elsewhere classified","1,200","1,000 - 1,600"
+306,All other diseases of digestive system,"600","300 - 2,000"
+260,Other and unspecified acute lower respiratory infection,"100","25 - 160"
